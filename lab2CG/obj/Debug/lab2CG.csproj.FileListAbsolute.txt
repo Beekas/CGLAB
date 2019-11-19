@@ -1,0 +1,6 @@
+C:\Users\dibug\OneDrive\Desktop\lab1CG\lab2CG\bin\Debug\lab2CG.exe.config
+C:\Users\dibug\OneDrive\Desktop\lab1CG\lab2CG\bin\Debug\lab2CG.exe
+C:\Users\dibug\OneDrive\Desktop\lab1CG\lab2CG\bin\Debug\lab2CG.pdb
+C:\Users\dibug\OneDrive\Desktop\lab1CG\lab2CG\obj\Debug\lab2CG.csproj.CoreCompileInputs.cache
+C:\Users\dibug\OneDrive\Desktop\lab1CG\lab2CG\obj\Debug\lab2CG.exe
+C:\Users\dibug\OneDrive\Desktop\lab1CG\lab2CG\obj\Debug\lab2CG.pdb
